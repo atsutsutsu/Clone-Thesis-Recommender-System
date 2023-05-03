@@ -1,0 +1,55 @@
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_60', '30', '30', '20', '20', 'CID_1');
+
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_61', '', '', '', '', 'CID_46');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_62', '', '', '', '', 'CID_47');
+
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_63', '', '', '', '', 'CID_63');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_64', '', '', '', '', 'CID_64');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_65', '', '', '', '', 'CID_65');
+
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_66', '40', '40', '10', '10', 'CID_66');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_67', '40', '40', '10', '10', 'CID_67');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_68', '40', '40', '10', '10', 'CID_68');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_69', '15', '20', '40', '25', 'CID_69');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_70', '10', '10', '40', '10', 'CID_70');
+
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_71', '10', '20', '30', '40', 'CID_71');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_72', '30', '30', '20', '20', 'CID_72');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_73', '10', '10', '40', '40', 'CID_73');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_74', '30', '40', '20', '10', 'CID_74');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_75', '25', '40', '15', '20', 'CID_75');
+
+
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_76', '40', '40', '10', '10', 'CID_76');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_77', '40', '40', '10', '10', 'CID_77');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_78', '40', '40', '10', '10', 'CID_78');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_79', '40', '40', '10', '10', 'CID_79');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_80', '50', '30', '10', '10', 'CID_80');
+
+
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_81', '40', '30', '15', '15', 'CID_81');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_82', '50', '30', '10', '10', 'CID_82');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_83', '40', '40', '10', '10', 'CID_83');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_84', '40', '20', '20', '20', 'CID_84');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_85', '50', '30', '10', '10', 'CID_85');
+
+
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_86', '40', '40', '10', '10', 'CID_86');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_87', '30', '35', '15', '20', 'CID_87');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_88', '5', '5', '60', '30', 'CID_88');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_89', '5', '5', '60', '30', 'CID_89');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_90', '5', '15', '50', '40', 'CID_90');
+
+
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_91', '15', '15', '50', '20', 'CID_91');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_92', '15', '15', '30', '40', 'CID_92');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_93', '15', '15', '30', '40', 'CID_93');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_94', '40', '30', '10', '20', 'CID_94');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_95', '10', '30', '20', '40', 'CID_95');
+
+
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_', '', '', '', '', 'CID_');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_', '', '', '', '', 'CID_');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_', '', '', '', '', 'CID_');
+INSERT INTO `course_percentage` (`CPID`, `MATH`, `SCIENCE`, `ENGLISH`, `READING_COMPREHENSION`, `CID`) VALUES ('CPID_', '', '', '', '', 'CID_');
+
