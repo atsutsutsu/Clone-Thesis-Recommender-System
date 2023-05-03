@@ -1,0 +1,82 @@
+/* .AdminDashboard {
+    display: flex;
+    height: 100vh;
+} */
+
+/* .Dashboard_Sidebar {
+    width: 278px;
+    background-color: #202435;
+    position: fixed;
+    height: 100%;
+
+} */
+/* 
+.Dashboard_Body {
+    margin-left: 278px;
+    width: 80%;
+    background-color: red;
+    /* background-color: #f6faf7c2; 
+    position: relative;
+} */
+/* 
+.Dashboard_Navbar{
+    position: absolute;
+    width: 100%;
+    height: 10px;
+    background-color: blue;
+    top: 0;
+} */
+
+/* 
+.box{
+    background-color: green;
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+
+.box1{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+} */
+
+Body{
+    background-color: #fcfcfd;
+}
+
+.titlepertable{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'QuickSand', sans-serif;
+    color: #252a35
+}
+
+.button_add{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 10px 15px;
+    outline: none;
+    background-color: #69b96e;
+    color: white;
+    border-radius: 5px;
+    border: 0px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    transition: 0.3s;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.button_add:hover{
+    background-color: #5da462;
+}
+
+.action_icon{
+    
+}
